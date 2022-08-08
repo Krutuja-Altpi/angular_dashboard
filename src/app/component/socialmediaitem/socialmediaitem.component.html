@@ -1,0 +1,12 @@
+<div class="col  " [ngStyle] = "{ padding : '14px'}">
+    <div class="card shadow-sm p-3 mb-5  text-center" [ngClass] = "{'bg-secondary ': showDarkMode}">
+        <p>
+            <fa-icon [icon] = "socialIcons[socialinfo.icon]"></fa-icon>
+            {{socialinfo.user}}
+        </p>
+        <h3>{{socialinfo.count}}</h3>
+        <p>{{socialinfo.type}}</p>
+        <p>{{socialinfo.extra}} today</p>
+    </div>
+</div>
+

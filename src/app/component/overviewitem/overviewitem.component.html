@@ -1,0 +1,15 @@
+<div class="card shadow-sm " [ngStyle] = "{width:'14rem' , 'padding' : '8px'}" [ngClass] = "{'bg-secondary ': showDarkMode}">
+    <div class="d-flex justify-content-between ">
+     
+            <p>{{overviewItem.name}}</p>
+     
+  
+            <fa-icon [icon] = " socialIcons[overviewItem.icon]"></fa-icon>
+     
+    </div>
+    <div class="d-flex justify-content-between">
+       <h5>{{overviewItem.count}}</h5>
+        <small>{{overviewItem.percentage}}</small>
+        
+    </div>
+</div>

@@ -1,0 +1,86 @@
+{
+    "socialMedia":[
+        {
+            "icon": "faFacebookSquare",
+            "user":"  @nathanf",
+            "count": "1987",
+            "type":"Followers",
+            "extra": 12 
+        },
+        {
+            "icon": "faTwitter",
+            "user":"  @nathanf",
+            "count":  "1044",
+            "type":"Followers",
+            "extra" :99 
+        },
+        {
+            "icon": "faInstagramSquare",
+            "user":" @realnathanf",
+            "count": "11k",
+            "type":"Followers",
+            "extra":  1098 
+        },
+        {
+            "icon": "faYoutubeSquare",
+            "user":"    Nathan F",
+            "count":"  8239",
+            "type":"Subscribers",
+            "extra":  400
+        }
+    ],
+    "overviewInfo":[
+        {
+            "name":"Page Views",
+            "icon": "faFacebookSquare",
+            "count": 87,
+            "percentage":"3%"
+        },
+        {
+            "name":" Likes",
+            "icon": "faFacebookSquare",
+            "count": 52,
+            "percentage":"2%"
+        },
+        
+        {
+            "name":" Likes",
+            "icon": "faInstagramSquare",
+            "count": 5462,
+            "percentage":"  2257%"
+        },
+        {
+            "name":" Profile Views",
+            "icon": "faInstagramSquare",
+            "count": 520,
+            "percentage":"   1375%"
+        },
+        {
+            "name":"Page Views",
+            "icon": "faTwitter",
+            "count": 87,
+            "percentage":"3%"
+        },
+        {
+            "name":" Likes",
+            "icon": "faTwitter",
+            "count": 52,
+            "percentage":"2%"
+        },
+        
+        {
+            "name":" Likes",
+            "icon": "faYoutubeSquare",
+            "count": 5462,
+            "percentage":"  2257%"
+        },
+        {
+            "name":" Profile Views",
+            "icon": "faYoutubeSquare",
+            "count": 520,
+            "percentage":"   1375%"
+        }
+        
+
+    ]
+}
