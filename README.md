@@ -30,3 +30,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Site url
  https://angular-darkmode.web.app
 
+## Demo Feature
+Just for testing purpose 
